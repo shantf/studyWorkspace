@@ -1,0 +1,10 @@
+#Thu Jul 28 19:05:21 CST 2011
+TOMCAT_HOME=D\:\\StudyTomcat6.0
+TOMCAT_TEMP=D\:\\StudyTomcat6.0\\temp
+LIBRARY_PATH="D\:\\Program Files\\MyEclipse 6.0\\bin;D\:\\StudyTomcat6.0\\bin"
+TOMCAT_BASE=D\:\\StudyTomcat6.0
+ENDORSED_DIRS="D\:\\StudyTomcat6.0/common/endorsed"
+eclipse.preferences.version=1
+JDK_INSTALLATION_NAME=MyEclipse 6.0
+JDK_HOME=D\:\\Program Files\\MyEclipse 6.0
+SERVER_ENABLEMENT=true

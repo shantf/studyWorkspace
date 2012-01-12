@@ -1,0 +1,12 @@
+#Thu Jul 28 16:03:21 CST 2011
+tomcat6Server.jquery.earProjectName=
+tomcat6Server.jquery.shouldBackup=false
+tomcat6Server.jquery.isDeployed=true
+tomcat6Server.jquery.deployIsOverProject=false
+tomcat6Server.jquery.contextRoot=/jquery
+tomcat6Server.jquery.type=WebDeployment
+tomcat6Server.jquery.isUptoDate=true
+tomcat6Server.jquery.deploymentPath=D\:\\StudyTomcat6.0\\webapps\\jquery
+eclipse.preferences.version=1
+tomcat6Server.jquery.shouldOverwrite=false
+tomcat6Server.jquery.isExploded=true
